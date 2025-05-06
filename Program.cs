@@ -50,6 +50,6 @@ namespace Practica_1
             Console.WriteLine("\nPresione cualquier tecla para salir...");
             Console.ReadKey();
 
-            ;        }
-    }
+         }
+     }
 }
