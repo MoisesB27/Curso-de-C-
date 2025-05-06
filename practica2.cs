@@ -23,7 +23,7 @@ namespace Practica_1
         Console.WriteLine($"Resultado: {n1 * n2}"); 
     }   
 
-         -}
+         }
 }
 
 
